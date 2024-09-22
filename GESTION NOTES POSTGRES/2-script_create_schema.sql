@@ -1,0 +1,3 @@
+-- Création du schéma
+DROP SCHEMA IF EXISTS "I_NOTE";
+CREATE SCHEMA "I_NOTE";
